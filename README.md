@@ -24,11 +24,6 @@
 <br/>
 
 
-![images](https://user-images.githubusercontent.com/73796836/112028758-8933eb80-8b5e-11eb-86a6-8df69280e95d.png)
-
-
-<br/>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kh-apoorv&show_icons=true&locale=en" alt="kh-apoorv" /></p>
 
