@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [calculator](https://github.com/Kh-Apoorv/simple_calculator)
 
-- 🌱 I’m currently learning **Javascript,react.**
+- 🌱 **Trying my hands on JAVASCRIPT AND REACT ,these days** 
 
 - 💬 Ask me about ***python, c++,html.***
 
