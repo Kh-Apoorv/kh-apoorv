@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ***python, c++,html.***
 
-- 📫 How to reach me **rtarjun44@gmail.com**
+- 📫 How to reach me **apoorv.kh.25@gmail.com**
 
 - ⚡ Fun fact **I think the combination of songs and code is supreme.**
 
