@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kh-apoorv&label=Profile%20views&color=0e75b6&style=flat" alt="kh-apoorv" /> </p>
 
-- 🔭 I’m currently working on [calculator](https://github.com/Kh-Apoorv/simple_calculator)
+- 🔭 My latest project is [calculator](https://github.com/Kh-Apoorv/simple_calculator)
 
 - 🌱 **Trying my hands on JAVASCRIPT AND REACT ,these days** 
 
-- 💬 Ask me about ***python, c++,html.***
+- 💬 Ask me about ***PYTHON,SQL,HTML.***
 
 - 📫 How to reach me **apoorv.kh.25@gmail.com**
 
