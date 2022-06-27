@@ -1,13 +1,13 @@
-<h1 align="center">How you doin' 🤗👋, I'm Apoorv khandelwal☢</h1>
+<h1 align="center">How you doin' They Call me Apoorv khandelwal☢</h1>
 <h3 align="center">A student who is passionate for learning new coding languages and also pursuing bachelor in computer science department from Shri Ramswaroop memorial university lucknow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kh-apoorv&label=Profile%20views&color=0e75b6&style=flat" alt="kh-apoorv" /> </p>
 
-- 🔭 My latest project is [calculator](https://github.com/Kh-Apoorv/simple_calculator)
+- 🔭 My latest project is Portfolio Website.
 
-- 🌱 **Trying my hands on JAVASCRIPT AND REACT ,these days** 
+- 🌱 **Trying my hands on HTML, CSS AND JAVASCRIPT these days** 
 
-- 💬 Ask me about ***PYTHON,SQL,HTML.***
+- 💬 Ask me about ***PYTHON,SQL,HTML,CSS***
 
 - 📫 How to reach me **apoorv.kh.25@gmail.com**
 
